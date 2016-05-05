@@ -1,3 +1,4 @@
+__author__ = 'khushboomandlecha'
 #def stack class and push,pop,peek function.
 
 class Stack:
