@@ -1,2 +1,4 @@
-l = 0;
-h = l;
+obj1 = {};
+l = h;
+obj1.l = h;
+obj1.p1 = l;
